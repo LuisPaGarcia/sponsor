@@ -1,6 +1,6 @@
 {
   "name": "sponsors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add github sponsors button to your github repo by adding yml file",
   "main": "./dist/index.js",
   "bin": {
