@@ -1,0 +1,20 @@
+{
+  "name": "sponsors",
+  "version": "0.0.1",
+  "description": "Add github sponsors button to your github repo by adding yml file",
+  "main": "./dist/index.js",
+  "bin": {
+    "sponsor": "./dist/global.js"
+  },
+  "directories": {
+    "dist":"dist",
+    "src":"src"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "preferGlobal": true
+}
