@@ -2,9 +2,9 @@
   "name": "sponsors",
   "version": "0.1.3",
   "description": "Add github sponsors button to your github repo by adding yml file",
-  "main": "./dist/utils/utils.js",
+  "main": "./src/utils/utils.js",
   "bin": {
-    "sponsors": "./dist/global.js"
+    "sponsors": "./src/global.js"
   },
   "directories": {
     "dist": "dist",
