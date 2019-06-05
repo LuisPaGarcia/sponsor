@@ -2,9 +2,9 @@
   "name": "sponsors",
   "version": "0.1.2",
   "description": "Add github sponsors button to your github repo by adding yml file",
-  "main": "./dist/index.js",
+  "main": "./dist/utils/utils.js",
   "bin": {
-    "sponsor": "./dist/global.js"
+    "sponsors": "./dist/global.js"
   },
   "directories": {
     "dist": "dist",
@@ -26,5 +26,8 @@
     "@babel/node": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
   }
 }
