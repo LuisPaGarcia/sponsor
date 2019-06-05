@@ -1,5 +1,5 @@
 "use strict";
 
-var _src = require("./src");
+var _index = require("./index");
 
-(0, _src.con)();
+(0, _index.con)();
