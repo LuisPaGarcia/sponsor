@@ -29,7 +29,7 @@
     "nodemon": "^1.18.3"
   },
   "url": "https://github.com/LuisPaGarcia/sponsors",
-  "bugs": "https://github.com/flaviocopes/package/issues",
+  "bugs": "https://github.com/LuisPaGarcia/sponsors/issues",
   "homepage": "https://luispa.dev",
   "dependencies": {
     "prompt": "^1.0.0"
