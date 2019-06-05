@@ -3,14 +3,14 @@
 ## How to use it
 
 1. Use npx to run it
-```bash
+```sh
 $ npx sponsors
 
 ```
 
 2. Fill the questions
 
-```bash
+```sh
 $ npx sponsors
 npx: installed 34 in 2.295s
 
