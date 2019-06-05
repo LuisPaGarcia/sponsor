@@ -1,3 +1,5 @@
-import { con } from "../src";
+"use strict";
 
-con()
+var _src = require("./src");
+
+(0, _src.con)();
